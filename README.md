@@ -1,7 +1,5 @@
 ## code rule scss
 
----
-
 # 1/ postion
 
 - relative, absolute,
